@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="producer-jvm">
+    <output-path>$PROJECT_DIR$/producer/build/libs</output-path>
+    <root id="archive" name="producer-jvm.jar">
+      <element id="module-output" name="ktlint-repro.producer.jvmMain" />
+    </root>
+  </artifact>
+</component>

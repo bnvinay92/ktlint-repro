@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="kmp-consumer-jvm">
+    <output-path>$PROJECT_DIR$/kmp-consumer/build/libs</output-path>
+    <root id="archive" name="kmp-consumer-jvm.jar">
+      <element id="module-output" name="ktlint-repro.kmp-consumer.jvmMain" />
+    </root>
+  </artifact>
+</component>

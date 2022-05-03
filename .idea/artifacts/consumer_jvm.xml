@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="consumer-jvm">
+    <output-path>$PROJECT_DIR$/consumer/build/libs</output-path>
+    <root id="archive" name="consumer-jvm.jar">
+      <element id="module-output" name="ktlint-repro.consumer.jvmMain" />
+    </root>
+  </artifact>
+</component>
